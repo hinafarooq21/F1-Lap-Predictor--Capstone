@@ -1,7 +1,5 @@
 # F1-Lap-Predictor--Capstone
 
-# F1 Lap Time Predictor
-
 🚀 **Live App:** [View the App here!](https://f1-lap-predictor--capstone-ompsciwmgkpd5psef5kxgu.streamlit.app/)
 
 ## How to use
