@@ -1,5 +1,3 @@
-pip install statsmodels
-
 import pandas as pd
 import streamlit as st
 import math
